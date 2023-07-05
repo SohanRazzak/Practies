@@ -5,8 +5,8 @@
 }
 
 body {
-    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_-J8_4b9O83ByoAeLBQQs2vqomom0zTF6t9a9GylXA&s');
-    /* background: linear-gradient(red, blue); */
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw_-J8_4b9O83ByoAeLBQQs2vqomom0zTF6t9a9GylXA&s'); */
+    background: linear-gradient(red, blue);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
